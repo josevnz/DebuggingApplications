@@ -785,6 +785,8 @@ So next time you have an issue with a program that is installed on your system y
 2. If the program is a python script then there is a good chance you can read the code yourself and run the script through the debugger, step by step to understand the issue. This is probably the most time-consuming way, but also it is the most rewarding as you learn how other good developers think!
 3. And finally we captured the encrypted traffic between us and the remote site and analyzed the upload; By enabling certain special features we were able to decrypt and replay the traffic, confirming our findings from the previous two interactions.
 
+This list of techniques is not exhaustive but for some cases like this they will give you a good start.
+
 As usual please leave your feedback, let's have a conversation so everybody learns a little.
 
 
